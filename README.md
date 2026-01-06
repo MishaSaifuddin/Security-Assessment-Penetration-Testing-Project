@@ -128,4 +128,10 @@ This project was conducted in a controlled academic environment for educational 
 
 ## 👨‍💻 Author
 **Security Assessment & Penetration Testing Project**  
-Focused on real-world attack simulation, defensive analysis, and enterprise security improvement.
+🔐Focused on real-world attack simulation, defensive analysis, and enterprise security improvement.
+📌 This project is part of my professional portfolio and demonstrates my readiness for **industry-level software and security roles**.
+
+
+---
+
+
